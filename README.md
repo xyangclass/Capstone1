@@ -11,7 +11,8 @@ fatality level of different event, and correlation to event type, location, fata
 
 https://acleddata.com/data-export-tool/
 
-![World protest case Study](https://user-images.githubusercontent.com/83846713/129199734-2fe6e8ff-435c-40e7-8ab2-bec8212b38a3.png)
+
+![World protest case Study-01](https://user-images.githubusercontent.com/83846713/129200213-c6b6cbd4-3d88-460f-9ea9-2ba1fc99c4c3.png)
 ![World protest case Study-02](https://user-images.githubusercontent.com/83846713/129200079-d72e4211-256f-4a70-9153-b6636b3bfd68.png)
 ![World protest case Study-03](https://user-images.githubusercontent.com/83846713/129200097-a594f2a7-7689-4cd8-9f1a-ac07d148e460.png)
 ![World protest case Study-04](https://user-images.githubusercontent.com/83846713/129200099-337ea7b4-c021-432f-806e-611acd707a2f.png)
