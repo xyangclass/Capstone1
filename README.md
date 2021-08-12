@@ -1,3 +1,4 @@
+[World protest case Study.pdf](https://github.com/xyangclass/Capstone1/files/6975488/World.protest.case.Study.pdf)
 # Capstone1
 proposal
 
@@ -27,3 +28,6 @@ this is a dataset for COVID-19 situation from 2020 to 2021
 the case study on dataset is about growth speed/involved area/affected porpulation
 and potential corelation 
 https://acleddata.com/analysis/covid-19-disorder-tracker/#1585775314361-2ee40e97-5aec
+[World protest case Study.pdf]
+(https://github.com/xyangclass/Capstone1/files/6975490/World.protest.case.Study.pdf)
+
