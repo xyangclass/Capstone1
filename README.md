@@ -1,8 +1,7 @@
 
-Capstone1
-proposal
+World Protest Analysis
 
-Dataset1:Armed conflict
+Dataset:Armed conflict
 this is a dataset about Armed conflict happend from May28 2018 to May28 2021 in global
 data set contain the involved orgnization, location, fatality, and event type
 
